@@ -1,0 +1,6 @@
+*.txt
+*.un~
+*.swp
+*.c~
+*.h~
+ws.code-workspace
